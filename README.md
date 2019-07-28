@@ -19,6 +19,7 @@ PyGithub
 Add the create.ps1 and create.py files to a directory that's already included in the Windows PATH directory, or create a new directory to place these files in and add this to the PATH directory.
 
 Open the create.ps1 file and assign your GitHub username on line 2.
+
 Open the create.py file and add your personal token on line 12.
 
 Finally, you're ready to use the function in PowerShell from any directory by typing: "create <name of your project>"
