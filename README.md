@@ -27,7 +27,3 @@ Finally, you're ready to use the function in PowerShell from any directory by ty
 ## Built With
 
 * [Python](https://www.python.org) - Python 3.7.4
-
-## License
-
-This project is licensed under the GNU General Public License V3.0 - see the [LICENSE.md](LICENSE.md) file for details
